@@ -17,8 +17,8 @@ To write a program to find the LU Decomposition of a matrix.
 ~~~ python
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: Manoj M
+RegisterNumber:21500566 
 */
 import numpy as np
 import scipy
@@ -30,8 +30,8 @@ print(U)
 ~~~
 ~~~ python
 '''Program to solve a matrix using LU decomposition.
-Developed by: 
-RegisterNumber: 
+Developed by: Manoj M
+RegisterNumber: 21500566 
 '''
 
 # To print X matrix (solution to the equations)
